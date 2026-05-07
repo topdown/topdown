@@ -26,6 +26,7 @@ I have many projects with over __140 repositories__ and counting. Most are priva
 ## Frameworks
 - React
 - VelocityPHP (my component driven framework)
+- VelocityJS ( in development )
 - WordPress 
 - CakePHP
 - SlimPHP

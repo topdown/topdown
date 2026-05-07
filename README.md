@@ -11,10 +11,6 @@ I have a passion for __Research & Development__ and pushing bounding the limits.
 
 I have many projects with over __140 repositories__ and counting. Most are private and unseen by the public.
 
-<table>
-  <tr>
-    <td width="50%">
-
 ## Languages = many
 
 - PHP
@@ -27,9 +23,6 @@ I have many projects with over __140 repositories__ and counting. Most are priva
 - C++
 - Java
 
-  </td>
-    <td width="50%">
-
 ## Frameworks
 - React
 - VelocityPHP (my component driven framework)
@@ -41,24 +34,12 @@ I have many projects with over __140 repositories__ and counting. Most are priva
 - Ruby on Rails
 - Electron
 
-    </td>
-  </tr>
-</table>
-
-
-
-<table>
-  <tr>
-    <td width="50%">  
-    
-## Databases  
+## Databases
 - MySQL
 - Postgres
 - SQLite
 - MongoDB
 
-    </td>
-    <td width="50%">
 ## Servers and Runtimes
 - Ubuntu
 - Vite
@@ -66,6 +47,3 @@ I have many projects with over __140 repositories__ and counting. Most are priva
 - Nginx
 - Apache
 
-    </td>
-  </tr>
-</table>

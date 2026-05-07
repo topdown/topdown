@@ -9,6 +9,8 @@ My professional journey is marked by crafting high-performance applications tail
 
 I have a passion for __Research & Development__ and pushing bounding the limits.
 
+I have many projects with over __140 repositories__ and counting. Most are private and unseen by the public.
+
 ## Languages = many
 
 - PHP

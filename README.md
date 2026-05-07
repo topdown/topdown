@@ -9,7 +9,7 @@ My professional journey is marked by crafting high-performance applications tail
 
 I have a passion for __Research & Development__ and pushing bounding the limits.
 
-I have many projects with over __140 repositories__ and counting. Most are private and unseen by the public.
+I have many projects with __hundreds of repositories__ and counting. Most are private and unseen by the public. 46 in my profile and so many more in my 28 organizations. One hundred repos alone in my framework VelocityPHP.
 
 ## Languages = many
 
